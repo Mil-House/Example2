@@ -246,13 +246,13 @@ header {
 .nav-link-search {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("/img/search.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/working111/img/search.svg") center no-repeat;
 }
 
 .nav-link-bag {
     width: 1.4rem;
     height: 4.4rem;
-    background: url("/img/bag.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/working111/img/bag.svg") center no-repeat;
 }
 
 
