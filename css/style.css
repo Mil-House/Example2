@@ -164,7 +164,6 @@ body {
 /*==============================*/
 
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
-@import url('https://fonts.googleapis.com/css?family=Poppins:200,200,400,500,600,700,800,900&dispaly=swap');
 
 /*======== Global ========*/
 *,
@@ -199,6 +198,8 @@ header {
     height: 4.4rem;
     background-color: rgba(0, 0, 0, 0.8);
     backdrop-filter: blur(2rem);
+    -webkit-filter: blur(2rem);
+    -moz-filter: blur(2rem);
 }
 
 .nav-list {
@@ -246,13 +247,13 @@ header {
 .nav-link-search {
     width: 1.6rem;
     height: 4.4rem;
-    background: url("https://Mil-House.github.io/working111/img/search.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/Example2/img/search.svg") center no-repeat;
 }
 
 .nav-link-bag {
     width: 1.4rem;
     height: 4.4rem;
-    background: url("https://Mil-House.github.io/working111/img/bag.svg") center no-repeat;
+    background: url("https://Mil-House.github.io/Example2/img/bag.svg") center no-repeat;
 }
 
 
